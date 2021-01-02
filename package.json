@@ -1,0 +1,19 @@
+{
+  "name": "treeofbacterialifespan",
+  "version": "1.0.0",
+  "description": "calculate average life span of a generation of bacteria based on their row in a binary tree",
+  "main": "treeOfBacteriaLifeSpan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matvelius/treeOfBacteriaLifeSpan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matvelius/treeOfBacteriaLifeSpan/issues"
+  },
+  "homepage": "https://github.com/matvelius/treeOfBacteriaLifeSpan#readme"
+}
